@@ -61,5 +61,8 @@
   "bugs": {
     "url": "https://github.com/mikolalysenko/l1-path-finder/issues"
   },
-  "homepage": "https://github.com/mikolalysenko/l1-path-finder"
+  "homepage": "https://github.com/mikolalysenko/l1-path-finder",
+  "publishConfig": {
+    "access": "public"
+  }
 }
